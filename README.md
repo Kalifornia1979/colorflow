@@ -68,7 +68,7 @@ sudo apt install python3-gi gir1.2-gtk-3.0 argyll
 Clone the repository and run the installer:
 
 ```bash
-git clone https://github.com/yourusername/colorflow.git
+git clone https://github.com/Kalifornia1979/colorflow.git
 cd colorflow
 bash install.sh
 ```
