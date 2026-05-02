@@ -22,7 +22,7 @@ This project was built together with [Claude](https://claude.ai) (Anthropic's AI
 
 If ColorFlow saves you time or helps you understand your color workflow, you can support its development:
 
-<a href="https://www.buymeacoffee.com/dittbrukernavn" target="_blank">
+<a href="https://www.buymeacoffee.com/Kalifornia1979" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
        alt="Buy Me A Coffee" height="50">
 </a>
