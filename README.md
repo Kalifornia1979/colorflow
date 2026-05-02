@@ -29,6 +29,8 @@ If ColorFlow saves you time or helps you understand your color workflow, you can
 
 Even a small contribution helps me continue improving the tool.
 
+---
+
 ColorFlow is built for photographers and video professionals who:
 
 - Work on Linux (Ubuntu, Fedora, or similar with GNOME)
