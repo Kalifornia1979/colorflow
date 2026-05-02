@@ -140,3 +140,7 @@ MIT License — free to use, modify, and share.
 ## Credits
 
 Built by Peter Risholm with [Claude](https://claude.ai) (Anthropic). Color management via [colord](https://www.freedesktop.org/software/colord/) and [Argyll CMS](https://www.argyllcms.com/).
+
+---
+
+If you find this project useful, consider giving it a ⭐ on GitHub.
