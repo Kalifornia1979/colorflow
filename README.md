@@ -18,8 +18,6 @@ This project was built together with [Claude](https://claude.ai) (Anthropic's AI
 
 ---
 
----
-
 ## ☕ Support this project
 
 If ColorFlow saves you time or helps you understand your color workflow, you can support its development:
